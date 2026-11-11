@@ -1,0 +1,12 @@
+WEB WIZARD STUDIO · laman-saya
+
+TERBIT DI GITHUB PAGES
+1. Di github.com tekan New > namakan laman-saya > Public > Create repository.
+2. Tekan "uploading an existing file" > seret SEMUA fail dari DALAM folder ini > Commit changes.
+3. Settings > Pages > Branch: main, / (root) > Save. Tunggu 1-2 minit.
+
+GAMBAR: semua gambar yang anda pilih dalam Studio sudah ada dalam folder assets. Untuk menukar gambar, ganti fail dengan nama yang sama.
+
+SUNTING SEMULA: buka Studio Builder > Terbit > Import projek > pilih web-wizard-projek.json.
+
+SEMAK: gantikan semua teks "(contoh)" dengan maklumat sebenar.
